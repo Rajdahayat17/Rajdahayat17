@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raj-dahayat-34876128b) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@RajDahayat15) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Raj Dahayat) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dahayatraj775@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raj-dahayat-34876128b) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@RajDahayat15)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dahayatraj775@gmail.com) 
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
