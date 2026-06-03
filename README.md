@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>App Development (Android) and improving my coding skills<br><br>🤝 I’m looking for help with<br>Java concepts and problem solving<br><br>🌱 I’m currently learning<br>Java and Data Structures & Algorithms (DSA)<br><br>💬 Ask me about<br>Java and Android Development<br><br>⚡ Fun fact<br>I’m on a journey to become a Software Engineer 🚀<br>
+🔭 I’m currently working on<br>App Development (Android) and improving my coding skills<br><br>🤝 I’m looking for help with<br>Java concepts and problem solving<br><br> I’m currently learning<br>Java and Data Structures & Algorithms (DSA)<br><br>💬 Ask me about<br>Java and Android Development<br><br>⚡ Fun fact<br>I’m on a journey to become a Software Engineer 🚀<br>
 
 
 ## 🌐 Socials:
