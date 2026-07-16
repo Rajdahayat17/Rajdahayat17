@@ -1,4 +1,4 @@
-# Hi, I'm Raj Dahayat! 👋
+# Hi, I'm Raj Dahayat 👋
 <p align="left">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&width=435&lines=Aspiring+Software+Engineer;Android+App+Developer;Java+%2B+DSA+Learner" alt="Typing SVG" /></a>
 </p>
